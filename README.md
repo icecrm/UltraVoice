@@ -36,7 +36,7 @@ Not yet written
 ## Special Thanks
 
 - mof33 (for helping me figure this out and letting me do this)
-- Garrison (Voice of swordsmachine, agony and tundra)
+- Garrison (Voice of swordsmachine, tundra)
 - [Uta Utane/UTAU](https://utau.us/install.html) (placeholder voice)
 - radwazhere (Voice of Cerberus)
 - [silvadoesthings](https://www.youtube.com/@silvadoesthings) (Voice of Streetcleaner)
