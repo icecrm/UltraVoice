@@ -36,20 +36,20 @@ This mod currently adds ambient non-dialogue to:
 
 ---
 
-## Special Thanks
+## Credit/Special Thanks
 
-- mof33 (for helping me figure this out and letting me do this)
+- mof33/mel (for helping me figure this out and letting me do this)
 - Garrison (Voice of swordsmachine, tundra)
 - Uta Utane/UTAU (placeholder voice)
 - radwazhere (Voice of Cerberus)
 - silvadoesthings (Voice of Streetcleaner)
 - Doodles (Voice of Virtue and Providence)
 - indie_artz182 (Voice of V2)
-
+- ics cram/Soleil (Voice of Sentry, Ferryman)
 
 ---
 
 ## Notice
 
-This mod is **NOT FINISHED**. and is **MOSTLY NOT MINE.** the original is by mof33 and the discord server is here
+This mod is **NOT FINISHED**. and is **MOSTLY NOT MINE.** the original is by mof_33/mel and the discord server is here
 [Discord server](https://discord.gg/SwrcVeYTQa).
