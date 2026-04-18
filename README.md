@@ -42,10 +42,9 @@ This mod currently adds ambient non-dialogue to:
 - Garrison (Voice of swordsmachine, tundra)
 - Uta Utane/UTAU (placeholder voice)
 - radwazhere (Voice of Cerberus)
-- silvadoesthings (Voice of Streetcleaner)
 - Doodles (Voice of Virtue and Providence)
 - indie_artz182 (Voice of V2)
-- ics cram/Soleil (Voice of Sentry, Ferryman)
+- ics cram/Soleil (Voice of Sentry, Ferryman, Streetcleaner)
 
 ---
 
